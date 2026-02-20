@@ -1,3 +1,4 @@
+# Question 07: Rotate Array by k Positions (right)
 def rotate_right(arr, k):
     k %= len(arr)
     return arr[-k:] + arr[:-k]

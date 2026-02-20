@@ -1,3 +1,4 @@
+# Question 16: Check if Two Arrays Are Equal
 def arrays_equal(a, b):
     return sorted(a) == sorted(b)
 

@@ -1,3 +1,4 @@
+# Question 05: Count Frequency of Elements
 from collections import Counter
 
 def count_frequency(arr):

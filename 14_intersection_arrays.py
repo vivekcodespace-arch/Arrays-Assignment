@@ -1,3 +1,4 @@
+# Question 14: Find the Intersection of Two Arrays
 def intersection(a, b):
     return list(set(a) & set(b))
 

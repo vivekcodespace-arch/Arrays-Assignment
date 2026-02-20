@@ -1,3 +1,4 @@
+# Question 11: Remove given Element from Array
 def remove_element(arr, val):
     return [x for x in arr if x != val]
 

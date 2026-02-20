@@ -1,3 +1,4 @@
+# Question 15: Find the Union of Two Arrays
 def union(a, b):
     return list(set(a) | set(b))
 

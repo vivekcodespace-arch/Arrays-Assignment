@@ -1,3 +1,4 @@
+# Question 31: Find Equilibrium Index
 def equilibrium_index(arr):
     total = sum(arr)
     left_sum = 0

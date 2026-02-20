@@ -1,3 +1,8 @@
+"""Question 4: Find the Second Largest Element
+
+This file provides a function to find the second largest element.
+"""
+
 def second_largest(arr):
     if len(arr) < 2:
         return None

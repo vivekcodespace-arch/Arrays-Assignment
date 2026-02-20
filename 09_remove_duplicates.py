@@ -1,3 +1,4 @@
+# Question 09: Remove Duplicates from Array
 def remove_duplicates(arr):
     seen = set()
     result = []

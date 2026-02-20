@@ -1,4 +1,5 @@
-//Rearranging with better time complexity
+# Question 24: Rearrange Array Alternately
+#Rearranging with better time complexity
 def rearrange_alternately(arr):
     arr.sort()
     result = []

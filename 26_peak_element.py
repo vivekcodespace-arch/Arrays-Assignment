@@ -1,3 +1,4 @@
+# Question 26: Find Peak Element
 def find_peak(arr):
     if not arr:
         return None

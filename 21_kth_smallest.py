@@ -1,3 +1,4 @@
+# Question 21: Find the Kth Smallest Element
 //Optimized solution 
 def kth_smallest(arr, k):
     return sorted(arr)[k-1]

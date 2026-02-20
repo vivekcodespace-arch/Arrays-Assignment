@@ -1,3 +1,4 @@
+# Question 25: Find Majority Element
 def majority_element(arr):
     candidate = None
     count = 0

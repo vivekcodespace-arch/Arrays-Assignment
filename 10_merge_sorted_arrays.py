@@ -1,3 +1,4 @@
+# Question 10: Merge Two Sorted Arrays
 def merge_sorted(a, b):
     return sorted(a + b)
 

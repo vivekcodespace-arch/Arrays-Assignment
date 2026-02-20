@@ -1,3 +1,4 @@
+# Question 12: Find the Missing Number
 def find_missing(arr, n):
     total = n * (n + 1) // 2
     return total - sum(arr)

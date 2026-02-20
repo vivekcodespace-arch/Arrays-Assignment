@@ -1,4 +1,5 @@
-//1st code
+# Question 22: Find All Subarrays
+#1st code
 def all_subarrays(arr):
     subarrays = []
     for i in range(len(arr)):
