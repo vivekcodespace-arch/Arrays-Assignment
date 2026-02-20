@@ -1,3 +1,4 @@
+//Rearranging with better time complexity
 def rearrange_alternately(arr):
     arr.sort()
     result = []
