@@ -1,3 +1,4 @@
+//1st code
 def all_subarrays(arr):
     subarrays = []
     for i in range(len(arr)):
